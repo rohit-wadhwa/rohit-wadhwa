@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 **Welcome to my corner of GitHub! Here's a little about what I'm up to:**
 ![image](https://github.com/rohit-wadhwa/rohit-wadhwa/assets/2290963/95d1c17e-322e-4416-a256-2d593d5f8508)
 - 🔭 I’m currently working at [SourceFuse Ltd](https://www.sourcefuse.com/) where I contribute to building cutting-edge web applications using AWS cloud services.
