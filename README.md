@@ -16,7 +16,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohit-wadhwa/rohit-wadhwa/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rohit-wadhwa/rohit-wadhwa/output/github-contribution-grid-snake.svg">
 </picture>
-
 ### 📢 Support or Contact
 
 👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](rohit.wadhwa52@gmail.com)
