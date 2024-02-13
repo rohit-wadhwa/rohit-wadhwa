@@ -68,8 +68,15 @@ Highlighting your expertise in `AWS`, `React`, `Loopback`, and other technologie
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-wadhwa&theme=merko&layout=compact&hide_langs_below=1"/>
 </div>
 
-<div style="clear:both;"></div>
+<div style="clear:both;"></div><div style="clear:both;"></div>
+
+<div align="center" style="clear:both;">
+  <p>&nbsp;</p>  <p>&nbsp;</p>
+  <p>&nbsp;</p>  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+</div>
 
 ---
-
-Feel free to explore my projects, fork, star, or contribute. Let's innovate together!
+<div align="left" style="clear:both;">
+  <p>Feel free to explore my projects, fork, star, or contribute. Let's innovate together!</p>
+</div>
