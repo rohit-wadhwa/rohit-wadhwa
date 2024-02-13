@@ -4,7 +4,7 @@
 <div>
 𝓡𝓸𝓱𝓲𝓽 𝓦𝓪𝓭𝓱𝔀𝓪 here, a Technical Architect with a passion for crafting innovative web applications, primarily leveraging the AWS cloud ecosystem. 
 My journey in technology is driven by an insatiable curiosity for the latest in cloud infrastructure, AI, and software development practices. 
-Currently delving into Terraform and Generative AI, I aim to blend automation with creativity to solve complex problems and deliver scalable solutions. Outside the binary world, I explore the synergy between technology and art, making every line of code a part of a larger masterpiece. 
+Currently delving into <a href="https://www.linkedin.com/pulse/simplifying-cloud-infrastructure-terraform-practical-guide-wadhwa-kzojc" title="Article by Rohit Wadhwa on Terraform">Terraform</a> and <a href="https://www.linkedin.com/pulse/navigating-generative-ai-landscape-chatgpt-bard-beyond-rohit-wadhwa-cewdc" title="Article by Rohit Wadhwa on Generative AI">Generative AI</a>, I aim to blend automation with creativity to solve complex problems and deliver scalable solutions. Outside the binary world, I explore the synergy between technology and art, making every line of code a part of a larger masterpiece. 
 Join me as I navigate through the realms of JavaScript, React, and beyond, one commit at a time.
 </div>
 <br clear="left"/>
@@ -18,7 +18,6 @@ Join me as I navigate through the realms of JavaScript, React, and beyond, one c
 - ⚡ Fun fact: I'm a tech enthusiast who also enjoys exploring the intersection of technology and creativity.
 
 ### 🎨 Dynamic Contributions
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohit-wadhwa/rohit-wadhwa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohit-wadhwa/rohit-wadhwa/output/github-contribution-grid-snake.svg">
