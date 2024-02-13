@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/rohit-wadhwa/rohit-wadhwa/master/images/Hi.gif" width="20px">
 
 <img align="left" height="200" src="https://github.com/rohit-wadhwa/rohit-wadhwa/assets/2290963/4a57bfa6-152c-4571-852f-68acb9aa3abc">
 <div>
@@ -55,10 +55,10 @@ Highlighting your expertise in `AWS`, `React`, `Loopback`, and other technologie
 ---
 
 <div align="center">
-  <a href="https://twitter.com/RohitWadhwa52" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/tw.png" alt="Twitter" width="30"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/rohit-wadhwa" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>&nbsp;
-  <a href="https://github.com/rohit-wadhwa" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/git.png" alt="GitHub" width="30"></a>&nbsp;
-  <a href="https://about.me/rohit.wadhwa" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/www.png" alt="Website" width="30"></a>
+  <a href="https://twitter.com/RohitWadhwa52" target="_blank"><img src="https://raw.githubusercontent.com/rohit-wadhwa/rohit-wadhwa/master/images/tw.png" alt="Twitter" width="30"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/rohit-wadhwa" target="_blank"><img src="https://raw.githubusercontent.com/rohit-wadhwa/rohit-wadhwa/master/images/in.png" alt="LinkedIn" width="30"></a>&nbsp;
+  <a href="https://github.com/rohit-wadhwa" target="_blank"><img src="https://raw.githubusercontent.com/rohit-wadhwa/rohit-wadhwa/master/images/git.png" alt="GitHub" width="30"></a>&nbsp;
+  <a href="https://about.me/rohit.wadhwa" target="_blank"><img src="https://raw.githubusercontent.com/rohit-wadhwa/rohit-wadhwa/master/images/www.png" alt="Website" width="30"></a>
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rohit-wadhwa&color=brightgreen" alt="profile views" /> </p>
