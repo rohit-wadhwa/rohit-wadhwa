@@ -64,8 +64,8 @@ Highlighting your expertise in `AWS`, `React`, `Loopback`, and other technologie
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rohit-wadhwa&color=brightgreen" alt="profile views" /> </p>
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rohit-wadhwa&show_icons=true&theme=monokai&count_private=true"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-wadhwa&theme=merko&layout=compact&hide_langs_below=1"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rohit-wadhwa&show_icons=true&theme=graywhite&count_private=true"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-wadhwa&theme=graywhite&layout=compact&hide_langs_below=1"/>
 </div>
 
 <div style="clear:both;"></div><div style="clear:both;"></div>
