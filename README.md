@@ -14,6 +14,7 @@ Join me as I navigate through the realms of JavaScript, React, and beyond, one c
 - 🌱 I’m on a learning path exploring `Terraform` and `Generative AI`, diving deep into the automation of cloud infrastructure and the exciting possibilities of AI in development.
 - 💬 Feel free to ask me about `JavaScript`, `AWS`, `React`, and `Technical Architecture`. I love discussing technology and sharing knowledge.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rohit-wadhwa/)
+- 📄 Latest Resume can be found here: [Rohit Wadhwa - Resume](https://www.kickresume.com/cv/WK4Wvk)
 - 😄 Pronouns: He/Him (Pronunciation: [r oh - h ih t] [w aa dh - w aa])
 - ⚡ Fun fact: I'm a tech enthusiast who also enjoys exploring the intersection of technology and creativity.
 
