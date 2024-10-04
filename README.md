@@ -29,6 +29,7 @@ Join me as I navigate through the realms of JavaScript, React, and beyond, one c
 
 Proudly acquired certifications that underscore my expertise in web application development and emerging technologies:
 
+- [HIPAA Awareness Certificate](https://raw.githubusercontent.com/rohit-wadhwa/rohit-wadhwa/output/HIPAA Awareness Certificate.pdf)
 - AWS 
 - PHP Skill - Certificate of Excellence
 - Introduction to ChatGPT
