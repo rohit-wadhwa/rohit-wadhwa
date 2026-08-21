@@ -17,6 +17,37 @@ Join me as I navigate through the realms of JavaScript, React, and beyond, one c
 - 📄 Latest Resume can be found here: [Rohit Wadhwa - Resume](https://www.kickresume.com/cv/WK4Wvk)
 - 😄 Pronouns: He/Him (Pronunciation: [r oh - h ih t] [w aa dh - w aa])
 - ⚡ Fun fact: I'm a tech enthusiast who also enjoys exploring the intersection of technology and creativity.
+---
+
+## 🚀 Side projects — free, in your browser
+
+Small things I build for fun and keep free. No installs — they run on phone and desktop.
+
+### 🕹️ Games
+
+| Project | Play | What it is |
+|---|---|---|
+| **GARUDĀSTRA — The Long Night** | [play](https://garudastra.vercel.app) | Indian-mythology action-platformer · 8 stages, 8 bosses |
+| **Indian Village Tycoon** | [play](https://indian-village-tycoon.vercel.app) | build-your-village management game |
+| **Neon Serpent Arena** | [play](https://neon-serpent-arena.vercel.app) | fast neon arcade arena |
+| **Word Bloom** | [play](https://word-bloom.vercel.app) | word puzzle game |
+| **Neon Hand Magic** | [play](https://neon-hand-magic.vercel.app) | hand/gesture interactive toy |
+| **Math Trainer** | [play](https://math-trainer.vercel.app) | quick mental-math practice |
+| **Geeta Legends** | [play](https://geeta-legends.vercel.app) | Bhagavad Gita interactive experience (Next.js) |
+
+### 🛕 Devotional &amp; utility apps
+
+| Project | Visit | What it is |
+|---|---|---|
+| **Mandir Radio** | [listen](https://mandir-radio.vercel.app) | 24×7 devotional radio — bhajan · kirtan · aarti |
+| **Geeta Quote Daily** | [visit](https://geeta-quote-daily.vercel.app) | a daily verse of wisdom |
+| **Solar Care Pro** | [visit](https://solarcarepro.vercel.app) | bilingual (EN/HI) solar-services site |
+| **Gratuity Calculator (India)** | [use](https://gratuity-calculator-india.vercel.app) | handy payroll utility |
+
+> I also write a few **open-source Chrome extensions** and support open-source projects → see [my repositories](https://github.com/rohit-wadhwa?tab=repositories).
+
+----
+
 
 ### 🎨 Dynamic Contributions
 <picture>
