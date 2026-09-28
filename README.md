@@ -2,21 +2,22 @@
 
 <img align="left" height="200" src="https://github.com/rohit-wadhwa/rohit-wadhwa/assets/2290963/4a57bfa6-152c-4571-852f-68acb9aa3abc">
 <div>
-𝓡𝓸𝓱𝓲𝓽 𝓦𝓪𝓭𝓱𝔀𝓪 here, a Senior Architect with a passion for crafting innovative web applications, primarily leveraging the AWS cloud ecosystem. 
-My journey in technology is driven by an insatiable curiosity for the latest in cloud infrastructure, AI, and software development practices. 
-Currently delving into <a href="https://www.linkedin.com/pulse/simplifying-cloud-infrastructure-terraform-practical-guide-wadhwa-kzojc" title="Article by Rohit Wadhwa on Terraform">Terraform</a> and <a href="https://www.linkedin.com/pulse/navigating-generative-ai-landscape-chatgpt-bard-beyond-rohit-wadhwa-cewdc" title="Article by Rohit Wadhwa on Generative AI">Generative AI</a>, I aim to blend automation with creativity to solve complex problems and deliver scalable solutions. Outside the binary world, I explore the synergy between technology and art, making every line of code a part of a larger masterpiece. 
-Join me as I navigate through the realms of JavaScript, React, and beyond, one commit at a time.
+𝓡𝓸𝓱𝓲𝓽 𝓦𝓪𝓭𝓱𝔀𝓪 here — Senior Architect at <a href="https://www.sourcefuse.com/">SourceFuse</a>. Eighteen years building for the web, the last ten designing the systems rather than only shipping them.
+<br/><br/>
+Right now that means agentic AI on AWS Bedrock: multi-agent orchestration, RAG pipelines, MCP servers with OAuth 2.0 PKCE, and deterministic guardrails that run as rule-engine gates rather than prompt-only safety. Before that, a conversational AI platform on RASA and an Azure-to-AWS migration for a live streaming service.
+<br/><br/>
+Nights and weekends I build small free things and leave them running — browser games, devotional apps, Chrome extensions. No installs, no ads, no accounts. They all live inside <a href="https://rohit-os.vercel.app" title="Rohit OS — portfolio as a desktop">Rohit OS</a>, my portfolio built as a desktop you can click around.
 </div>
 <br clear="left"/>
 
 **Welcome to my corner of GitHub! Here's a little about what I'm up to:**
-- 🔭 I’m currently working at [SourceFuse Ltd](https://www.sourcefuse.com/) where I contribute to building cutting-edge web applications using AWS cloud services.
-- 🌱 I’m on a learning path exploring `Terraform` and `Generative AI`, diving deep into the automation of cloud infrastructure and the exciting possibilities of AI in development.
-- 💬 Feel free to ask me about `JavaScript`, `AWS`, `React`, and `Technical Architecture`. I love discussing technology and sharing knowledge.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rohit-wadhwa/)
-- 📄 Latest Resume can be found here: [Rohit Wadhwa - Resume](https://www.kickresume.com/cv/WK4Wvk)
+- 🔭 Senior Architect at [SourceFuse](https://www.sourcefuse.com/) — agentic AI platforms, conversational AI, and the AWS underneath them.
+- 🌱 Currently: `AWS Bedrock AgentCore`, `MCP`, and where data formats are heading now that the reader is a model — I wrote about that in [JSON vs TOON](https://www.linkedin.com/pulse/json-vs-toon-designing-data-world-where-consumer-model-rohit-wadhwa-whdec) and [Loop Engineering](https://www.linkedin.com/pulse/loop-engineering-why-prompt-alone-wont-enough-anymore-rohit-wadhwa-wulec).
+- 💬 Ask me about `AWS`, `Node/TypeScript`, `React`, or how to keep a multi-tenant platform boring.
+- 🖥️ My portfolio runs as a desktop you can click around: **[rohit-os.vercel.app](https://rohit-os.vercel.app)**
+- 📫 [LinkedIn](https://www.linkedin.com/in/rohit-wadhwa/) · 📄 [Résumé](https://www.kickresume.com/cv/WK4Wvk)
 - 😄 Pronouns: He/Him (Pronunciation: [r oh - h ih t] [w aa dh - w aa])
-- ⚡ Fun fact: I'm a tech enthusiast who also enjoys exploring the intersection of technology and creativity.
+- ⚡ Fun fact: I run a 24×7 bhajan radio whose Hindu calendar is *computed* from astronomical algorithms rather than looked up in a table — festivals are matched by tithi rule, each at its own व्यापिनी.
 ---
 
 ## 🚀 Side projects — free, in your browser
