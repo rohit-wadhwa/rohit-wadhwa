@@ -2,7 +2,7 @@
 
 <img align="left" height="200" src="https://github.com/rohit-wadhwa/rohit-wadhwa/assets/2290963/4a57bfa6-152c-4571-852f-68acb9aa3abc">
 <div>
-𝓡𝓸𝓱𝓲𝓽 𝓦𝓪𝓭𝓱𝔀𝓪 here, a Technical Architect with a passion for crafting innovative web applications, primarily leveraging the AWS cloud ecosystem. 
+𝓡𝓸𝓱𝓲𝓽 𝓦𝓪𝓭𝓱𝔀𝓪 here, a Senior Architect with a passion for crafting innovative web applications, primarily leveraging the AWS cloud ecosystem. 
 My journey in technology is driven by an insatiable curiosity for the latest in cloud infrastructure, AI, and software development practices. 
 Currently delving into <a href="https://www.linkedin.com/pulse/simplifying-cloud-infrastructure-terraform-practical-guide-wadhwa-kzojc" title="Article by Rohit Wadhwa on Terraform">Terraform</a> and <a href="https://www.linkedin.com/pulse/navigating-generative-ai-landscape-chatgpt-bard-beyond-rohit-wadhwa-cewdc" title="Article by Rohit Wadhwa on Generative AI">Generative AI</a>, I aim to blend automation with creativity to solve complex problems and deliver scalable solutions. Outside the binary world, I explore the synergy between technology and art, making every line of code a part of a larger masterpiece. 
 Join me as I navigate through the realms of JavaScript, React, and beyond, one commit at a time.
@@ -23,16 +23,22 @@ Join me as I navigate through the realms of JavaScript, React, and beyond, one c
 
 Small things I build for fun and keep free. No installs — they run on phone and desktop.
 
+### 🖥️ Rohit OS — my portfolio, as a desktop
+
+| Project | Open | What it is |
+|---|---|---|
+| **Rohit OS** | [open](https://rohit-os.vercel.app) | a Linux/Cinnamon-style desktop in the browser — window manager, file explorer, terminal, article reader, music player. Zero build step, no dependencies. |
+
 ### 🕹️ Games
 
 | Project | Play | What it is |
 |---|---|---|
 | **GARUDĀSTRA — The Long Night** | [play](https://garudastra.vercel.app) | Indian-mythology action-platformer · 8 stages, 8 bosses |
 | **Indian Village Tycoon** | [play](https://indian-village-tycoon.vercel.app) | build-your-village management game |
-| **Neon Serpent Arena** | [play](https://neon-serpent-arena.vercel.app) | fast neon arcade arena |
-| **Word Bloom** | [play](https://word-bloom.vercel.app) | word puzzle game |
+| **Neon Serpent Arena** | [play](https://neon-serpent-arena-game.vercel.app) | fast neon arcade arena |
+| **Word Bloom** | [play](https://word-bloom-three.vercel.app) | word puzzle game |
 | **Neon Hand Magic** | [play](https://neon-hand-magic.vercel.app) | hand/gesture interactive toy |
-| **Math Trainer** | [play](https://math-trainer.vercel.app) | quick mental-math practice |
+| **Math Trainer** | [play](https://math-trainer-kids.vercel.app) | quick mental-math practice |
 | **Geeta Legends** | [play](https://geeta-legends.vercel.app) | Bhagavad Gita interactive experience (Next.js) |
 
 ### 🛕 Devotional &amp; utility apps
